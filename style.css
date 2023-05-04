@@ -16,7 +16,7 @@ body {
     rgb(220, 216, 244)
   );
   overflow: hidden;
-  position: relative;
+/*   position: relative; */
 }
 .heading {
   font-size: 80px;
